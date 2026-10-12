@@ -1,4 +1,4 @@
 \# My First Git Project
 
-darius is black
+this project tracks my git practice 
 
